@@ -1,5 +1,10 @@
-build/**
+.vs/**
+Binaries/**
+Build/**
 Config/**
-DerivedDataCAche/**
+Content/**
+DerivedDataCache/**
 Intermediate/**
 Saved/**
+.vsconfig
+test1.sln
